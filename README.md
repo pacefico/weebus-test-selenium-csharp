@@ -9,8 +9,15 @@ This project has the purpose of testing the functionalities available in the app
 
 # Features:
 
-- Displays up to two arrival predictions for each itinerary. (TESTED)
-- Search for a bus stop near the user's location. (TESTED)
+- Displays up to two arrival predictions for each itinerary (TESTED)
+- Search for a bus stop near the user's location (TESTED)
 - Search of points of bus near the place clicked (twice)
 - Estimated bus time by summary point
 - Estimate of bus time by full point (TESTED)
+
+# Technologies:
+
+- C#
+- Visual Studio
+- Nunit Framework
+- Selenium Webdriver
